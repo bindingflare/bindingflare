@@ -1,5 +1,3 @@
-## Hi there 👋 (Readme WIP)
-
 <!--
 **bindingflare/bindingflare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![LeetCode user Flarin](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FFlarin&logo=leetcode&logoColor=yellow)](https://leetcode.com/Flarin/)
+<p align="center">
+  <a href="https://leetcode.com/Flarin/"><img alt="LeetCode user Flarin" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FFlarin&logo=leetcode&logoColor=yellow"></img></a>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+</p>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bindingflare&mode=weekly" alt="GitHub Streak" /></a>
+</p>
 
 ### 🌱 I’m currently learning
-SpringBoot / React
+SpringBoot WebSecurity / TypeScript (React) / Kubernetes
 
 ### 👯 I’m looking to collaborate on ...
-FrontEnd development
+Frontend Dev / Backend Deployment
