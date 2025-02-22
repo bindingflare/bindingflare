@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 ### 🌱 I’m currently learning
-SpringBoot WebSecurity / TypeScript (React) / Kubernetes
+SpringBoot WebSecurity / TypeScript (React & Deno) / Terraform
 
 ### 👯 I’m looking to collaborate on ...
 Frontend Dev / Backend Deployment
